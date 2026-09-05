@@ -36,7 +36,6 @@ An AI agent that treats every failed payment as an economic decision — not a r
 - [Usage](#usage)
 - [AI Agent Architecture](#ai-agent-architecture)
 - [Screenshots](#screenshots)
-- [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
 
