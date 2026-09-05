@@ -35,7 +35,6 @@ An AI agent that treats every failed payment as an economic decision — not a r
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [AI Agent Architecture](#ai-agent-architecture)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -342,18 +341,6 @@ flowchart LR
 
 ---
 
-## Screenshots
-
-> Screenshots can be added to the `public/` directory and referenced here.
-
-```
-public/
-├── screenshot-landing.png
-├── screenshot-dashboard.png
-├── screenshot-decision-trace.png
-├── screenshot-why-not-retry.png
-└── screenshot-simulation.png
-```
 
 | View | Description |
 | :--- | :--- |
