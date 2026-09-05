@@ -366,25 +366,6 @@ public/
 
 ---
 
-## Roadmap
-
-- [x] Deterministic scoring engine with 5-factor probability model
-- [x] Expected value optimization across 4 recovery strategies
-- [x] Policy Guardian with 4 business rule checks
-- [x] Human-in-the-loop escalation for high-value transactions
-- [x] Interactive agent decision trace with typewriter AI reasoning
-- [x] "Why Not Retry?" expected value comparison view
-- [x] 7-stage animated pipeline visualization
-- [x] 100-transaction batch simulation with real-time UI updates
-- [x] Premium dark-mode financial dashboard aesthetic
-- [ ] Razorpay Payment Links API integration for live recovery
-- [ ] Persistent audit log with exportable CSV/JSON
-- [ ] Multi-merchant support with configurable policy thresholds
-- [ ] Webhook-based real-time payment failure ingestion
-- [ ] Historical recovery analytics with trend charts
-
----
-
 ## Contributing
 
 Contributions are welcome.
